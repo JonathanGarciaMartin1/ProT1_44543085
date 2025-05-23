@@ -1,0 +1,15 @@
+/* Establece el color de fondo de toda la página */
+body {
+    background-color: #eaf2e3; /* Color de fondo suave para el cuerpo de la página */
+    color: #333;               /* Color del texto principal (gris oscuro) */
+    font-family: Arial, sans-serif; /* Fuente principal para el texto, usando Arial o una fuente sans-serif */
+    margin: 0;                 /* Elimina el margen por defecto del navegador alrededor del body */
+    padding: 0;                /* Elimina el relleno por defecto del body */
+}
+
+.parrafo {
+    centrado: center;            /* Centra el texto dentro de los párrafos */
+    font-size: 16px;          /* Tamaño de fuente para los párrafos */
+    line-height: 1.5;        /* Altura de línea para mejorar la legibilidad */
+    margin: 10px 0;         /* Margen superior e inferior para separar los párrafos */
+}
